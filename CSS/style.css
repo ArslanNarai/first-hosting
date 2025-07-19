@@ -1,0 +1,21 @@
+*{
+ background-color: rgb(255, 255, 0);
+}
+h1{
+    background-color: rgb(0, 0, 0);
+color: crimson;
+
+}
+h2{
+    color: darkviolet;
+    background-color: black;
+}
+h3{
+    color: rgba(136, 127, 255, 0.865);
+    background-color: black;
+}
+ul>li{
+    color: rgb(255, 0, 102);
+    background-color: rgb(0, 0, 0);
+   
+}   
